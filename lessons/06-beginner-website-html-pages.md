@@ -5,10 +5,6 @@ nav_order: 7
 description: Add HTML pages to your website
 ---
 
-[![ad](../img/github-classroom.jpg)](https://classroom.github.com/a/8P_h4PsT)
-
-****
-
 # Add Pages to Website
 
 ## In this lesson, we will add additional pages to our website.
@@ -109,23 +105,4 @@ description: Add HTML pages to your website
 - Save the files and preview the completed website in the browser.
 
 ![img](../img/complete-site.JPG)
-
-***
-### COMMENTS
-***
-
-<div id="disqus_thread"></div>
-<script>
-var disqus_config = function () {
-this.page.url = 'https://staticwebsite.tutorial.rclapp.com/lessons/lesson6.html';
-this.page.identifier = 'a01-06'; 
-};
-(function() { 
-var d = document, s = d.createElement('script');
-s.src = 'https://coding-skills-io.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 

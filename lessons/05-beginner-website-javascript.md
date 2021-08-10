@@ -5,10 +5,6 @@ nav_order: 6
 description: Add Javascript JS to your web pages
 ---
 
-[![ad](../img/github-classroom.jpg)](https://classroom.github.com/a/8P_h4PsT)
-
-****
-
 # Javascript
 
 ## In this lesson, we will add Javascript to a webpage to make it interactive.
@@ -154,25 +150,6 @@ When the user clicks a number link in the gallery controller, we want to show th
 ```
 
 - Save the files and preview the result in the browser.
-
-***
-### COMMENTS
-***
-
-<div id="disqus_thread"></div>
-<script>
-var disqus_config = function () {
-this.page.url = 'https://staticwebsite.tutorial.rclapp.com/lessons/lesson5.html';
-this.page.identifier = 'a01-05'; 
-};
-(function() { 
-var d = document, s = d.createElement('script');
-s.src = 'https://coding-skills-io.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
 
 

@@ -5,10 +5,6 @@ nav_order: 3
 description: Create an index page for your website
 ---
 
-[![ad](../img/github-classroom.jpg)](https://classroom.github.com/a/8P_h4PsT)
-
-****
-
 # Add an HTML page
 
 ## In this lesson, we will add an HTML file to our project.
@@ -131,22 +127,3 @@ The 'Hello World' caption will be displayed on your web page.
 - You should see your HTML page rendered in the browser.
 
 ![new folder](../img/html1-view-browser2.JPG)
-
-***
-### COMMENTS
-***
-
-<div id="disqus_thread"></div>
-<script>
-var disqus_config = function () {
-this.page.url = 'https://staticwebsite.tutorial.rclapp.com/lessons/lesson2.html';
-this.page.identifier = 'a01-02'; 
-};
-(function() { 
-var d = document, s = d.createElement('script');
-s.src = 'https://coding-skills-io.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>

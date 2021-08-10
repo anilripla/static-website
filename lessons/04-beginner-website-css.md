@@ -5,10 +5,6 @@ nav_order: 5
 description: Style your website with Cascading Style Sheets CSS
 ---
 
-[![ad](../img/github-classroom.jpg)](https://classroom.github.com/a/8P_h4PsT)
-
-****
-
 # Styling with CSS
 
 ## In this lesson, we will use Cascading Style Sheets (CSS) to style our website.
@@ -264,25 +260,6 @@ footer {
 - Preview the index.html page in the browser and see the results.
 
 ![new folder](../img/css-footer.JPG)
-
-***
-### COMMENTS
-***
-
-<div id="disqus_thread"></div>
-<script>
-var disqus_config = function () {
-this.page.url = 'https://staticwebsite.tutorial.rclapp.com/lessons/lesson4.html';
-this.page.identifier = 'a01-04'; 
-};
-(function() { 
-var d = document, s = d.createElement('script');
-s.src = 'https://coding-skills-io.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
 
 
