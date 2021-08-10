@@ -1,3 +1,10 @@
+---
+title: Introduction
+description: Introduction to the project
+has_children: false
+nav_order: 1
+---
+
 # Introduction
 
 ## Build a static website using HTML, CSS and Javascript
